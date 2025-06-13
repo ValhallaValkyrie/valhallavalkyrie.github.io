@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "But Why?"
-date: 2025-06-13 07:00:00
 categories: planning
 tags: goals planning outcome
 ---
