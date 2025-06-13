@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "But Why?"
+title: "I do, but Why?"
+date: 2025-06-13
 categories: planning
 tags: goals planning outcome
+excerpt: Build, Break, Learn, Repeat
 ---
 
 # Goals and Stuff
@@ -62,7 +64,7 @@ tags: goals planning outcome
     - Github, Gitlab 
   
 
-  ## Importantly, I must _*understand*_ how something works, not just blindly copy and paste commands.  
+## Importantly, I must _*understand*_ how something works, not just blindly copy and paste commands.  
 
  
 
