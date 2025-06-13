@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "All This Hardware - Yet Nothing to show for it"
-date: 2025-06-13 07:00:00 +0200
+date: 2025-06-13 07:00:00
 categories: hardware
 tags: hardware planning 
 ---
@@ -19,7 +19,7 @@ tags: hardware planning
 > CPU:    AMD 9800X3D
 > RAM:     32GB (2x16) DDR5 6000  
 > STORAGE: 1x512GB NVMe SSD Gen4, 1x2TB NVMe SSD Gen4  
-> GPU:     XFX 7900XT  
+> GPU:     XFX 7900XT  20GB  
 > NIC : INTEL 2.5GbE  with Wifi  
 > Bluetooth : Yes
 > PSU:     Seasonic 1000W  
@@ -89,6 +89,7 @@ tags: hardware planning
 ### Misc Parts
 
 > 512GB NVMe SSD Gen3  
+> 2x2TB Internal HDD  
 > 2x2TB External HDD  
 > 2x1TB External HDD  
 > 1x1TB External SSD - Type C  
@@ -101,7 +102,7 @@ tags: hardware planning
 
 Decide on layout for hardware components.  
 Make necessary adjustments to get set up.  
-Decide on operating systems for machines.
+Decide on operating systems for machines.  
 Configure machines, and get them set up.
 
 
