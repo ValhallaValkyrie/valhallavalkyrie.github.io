@@ -4,7 +4,7 @@ title: "All This Hardware - Yet Nothing to show for it"
 date: 2025-06-13
 categories: hardware
 tags: hardware planning  
-excerpt: Too many ideas, too little action.
+excerpt: "Too many ideas, too little action".
 ---
 
 ## List of hardware  
