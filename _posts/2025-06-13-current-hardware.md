@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "All This Hardware - Yet Nothing to show for it"
-date: 2025-06-13 07:00:00
 categories: hardware
 tags: hardware planning 
 ---
