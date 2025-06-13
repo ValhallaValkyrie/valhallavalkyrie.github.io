@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Greetings!
+# Greetings
 
 I'm Valhalla Valkyrie, a full time student, HomeLab enthusiast, tireless tinkerer ,and chronic OS reformatter.  
 
@@ -16,4 +16,4 @@ This site is heavily inspired, and made possible by [Techno Tim](https://technot
 
 All the credit for this site's setup goes to him and his video.
 
-## Thanks!
+## Thanks
