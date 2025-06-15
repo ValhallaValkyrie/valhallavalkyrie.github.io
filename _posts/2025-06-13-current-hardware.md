@@ -4,7 +4,6 @@ title: "All This Hardware - Yet Nothing to show for it"
 date: 2025-06-13
 categories: hardware
 tags: hardware planning  
-excerpt: "Too many ideas, too little action".
 ---
 
 ## List of hardware  
@@ -47,9 +46,9 @@ excerpt: "Too many ideas, too little action".
 > STORAGE: 2x480GB SATA SSD  
 > STORAGE HDD: 3x3TB 5400rpm HDD  
 > GPU: NVIDIA 980TI 6GB  
-> NICs : INTEL 2.5GbE with Wifi
-> PSU: Corsair 550W
-> UPS:  None
+> NICs : INTEL 2.5GbE with Wifi  
+> PSU: Corsair 550W  
+> UPS:  None  
 
 ### Node 4 - Eclipse - ?Purpose? - ?OS?
 
