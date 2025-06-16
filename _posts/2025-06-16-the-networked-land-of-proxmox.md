@@ -1,14 +1,20 @@
 ---
 layout: post
-title: Networking in the Land of Prox
-date: 2025-06-15
+title: Networking in the Land of Proxmox
+date: 2025-06-16
 categories: homelab
 tags: proxmox hardware planning
 ---
 
+---
+
 ## A mish-mash of software
 
-Currently, my setup runs on different Operating Systems.
+Currently, my setup runs on different Operating Systems, spread out between devices, with different packaging methods, commands and supported features.  
+Unfortunately it becomes a pain to remember where you did what, and try to recreate it everytime you change hosts.  
+Moving to a "Universal" Standard, allows standardisation and familiarity.  
+
+**My network looks a bit like this.**  
 
 ---
 
@@ -28,7 +34,7 @@ After much research, and watching of YouTube Tutorials, I have decided to redo *
 
 ---
 
-## All New Hardware must follow the naming scheme outlined in a previous post
+## All New Hardware must follow the naming scheme outlined in a [previous post]({% post_url 2025-06-15-naming-scheme %})
 
 ### Compute Nodes
 
@@ -47,4 +53,4 @@ After much research, and watching of YouTube Tutorials, I have decided to redo *
 
 The Main Goal was to reduce the footprint of the "Single Point Of Failure" and make everything as expandable and resilient as possible.  
 All "Bulk" Storage, will be stored on the Network Attached Storage via NFS.  
-All containers and VM's will be backed up regularly to the Proxmox Backup Server, allowing for quick restores incase of failure, misconfiguration  or PEBKAC.
+All Containers and VM's will be backed up regularly to the Proxmox Backup Server, allowing for quick restores incase of failure, misconfiguration  or PEBKAC.  

@@ -40,4 +40,4 @@ Testings are named with (Node)+(Purpose)+Testing+CT
 >
 >## Virtual Machines  
 >
-> - G-Machinum-Win11-Gaming  = Windows 11 Gaming VM with GPU Passthrough  
+> - G-Machinum-Win11-Gaming-VM  = Windows 11 Gaming VM with GPU Passthrough  
